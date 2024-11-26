@@ -2,13 +2,13 @@
   "name": "always404",
   "version": "1.0.0",
   "description": "Always produces a 404",
-  
+  "author": "Vicktor Moberg",
+  "homepage": "https://github.com/VickM12/always404",  
+  "keywords": ["404", "status", "express", "string", "req", "res", "request", "response", "error", "http"],
+  "license": "MIT",
   "scripts": {
     "test": "mocha"
   },
-  "keywords": ["404", "status", "express", "string", "req", "res", "request", "response", "error", "http"],
-  "author": "Vicktor Moberg",
-  "license": "MIT",
   "files": [
     "index.js"
   ],
