@@ -1,0 +1,19 @@
+{
+  "name": "always404",
+  "version": "1.0.0",
+  "description": "Always produces a 404",
+  
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": ["404", "status", "express", "string", "req", "res", "request", "response", "error", "http"],
+  "author": "Vicktor Moberg",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=10.0.0"
+  }
+}
